@@ -22,19 +22,19 @@
     "url": "https://spend.postmanalwaysdelivers.com",
     "icon": "https://icons.duckduckgo.com/ip3/spend.postmanalwaysdelivers.com.ico",
     "slug": "spend",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "97.99%",
+    "uptimeWeek": "99.71%",
+    "uptimeMonth": "99.93%",
+    "uptimeYear": "99.99%",
     "time": 524,
-    "timeDay": 376,
-    "timeWeek": 494,
+    "timeDay": 419,
+    "timeWeek": 495,
     "timeMonth": 506,
     "timeYear": 524,
     "dailyMinutesDown": {
-      "2023-10-30": 0
+      "2023-10-30": 29
     }
   }
 ]
